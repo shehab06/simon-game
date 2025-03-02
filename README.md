@@ -25,7 +25,7 @@ A fun, interactive **Simon Game** built with **HTML, CSS, and JavaScript**. Test
 ## 💻 Setup & Running  
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/yourusername/simon-game.git
+   git clone https://github.com/shehab06/simon-game.git
 
  2. **Open index.html in a browser.**
 
