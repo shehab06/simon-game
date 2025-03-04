@@ -14,12 +14,6 @@ A fun, interactive **Simon Game** built with **HTML, CSS, and JavaScript**. Test
 - **CSS** - Styling and animations.  
 - **JavaScript & jQuery** - Game logic and interactions.  
 
-## 📂 Project Structure  
-
-/simon-game │── index.html # Main HTML file
-│── styles.css # CSS for styling
-│── game.js # JavaScript game logic
-│── sounds/ # Folder for sound effects (if added)
  
 
 ## 💻 Setup & Running  
